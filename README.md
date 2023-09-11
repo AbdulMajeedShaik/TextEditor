@@ -30,3 +30,18 @@ Event Handling: The TextEditor class implements the ActionListener interface to 
 File Choosers: File choosers are used to facilitate opening and saving files. Users can browse their local file system to select files for opening or saving.
 
 Overall, this TextEditor project provides a basic but functional text editing experience in a Java Swing-based GUI. It can serve as a foundation for more advanced text editor applications with additional features and improvements.
+
+# output
+
+Interface of the Project :
+
+![Screenshot 2023-09-11 172651](https://github.com/AbdulMajeedShaik/TextEditor/assets/131744350/e4699e1b-d702-4300-ba46-d13ea517fb54)
+
+Features of file Menu :
+
+![Screenshot 2023-09-11 172849](https://github.com/AbdulMajeedShaik/TextEditor/assets/131744350/36389ac1-b8be-4ffd-99bb-d3d982bbf940)
+
+Features of Edit Menu :
+
+![Screenshot 2023-09-11 172906](https://github.com/AbdulMajeedShaik/TextEditor/assets/131744350/d2d18cd5-86bb-4e38-8b9f-03c878ee4505)
+
